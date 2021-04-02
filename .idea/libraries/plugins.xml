@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openshift/plugins/JMeterPlugins-Standard-1.4.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/openshift/plugins/bzm-parallel-0.4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

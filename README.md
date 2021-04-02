@@ -1,6 +1,6 @@
-# Jmeter Cluster Support for Kubernetes and OpenShift
+# JMeter Cluster Support for Kubernetes and OpenShift
 
-## Prerequisits
+## Prerequisites
 
 Kubernetes > 1.16
 
